@@ -7,6 +7,10 @@ export const navLinks = [
   id: "gallery",
   title: "照片",
 },
+{
+  id: "comment",
+  title: "纪念",
+},
 ];
 
 export const detail = {

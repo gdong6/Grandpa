@@ -8,20 +8,20 @@ const Navbar = () => {
   const [active, setActive] = useState('');
 
   return (
-    <nav className={`${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-black/10 backdrop-blur-sm`}>
+    <nav id="navbar" className={`${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-black/10 backdrop-blur-sm`}>
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
         <Link to="/" className='flex items-center gap-2' onClick={() => { 
             setActive(""); 
             window.scrollTo(0,0);
           }}
         >
-            <div className='w-30 bg-white'></div>
+            <div className='w-30 '></div>
         </Link>
         <ul className='list-none flex flex-row sm:gap-10 gap-3'>
           {navLinks.map((link) => (
             <li 
               key={link.id} 
-              className={`${active === link.title ? "text-white" : "text-zinc-400"} backdrop-contrast-100 hover:text-white text-[18px] font-medium cursor-pointer`}
+              className={`${active === link.title ? "text-white" : "text-zinc-400"} hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(link.title)}
             >
               <a href={`#${link.id}`}>{link.title}</a>
