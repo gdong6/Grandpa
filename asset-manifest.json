@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "//gdong6.github.io/Grandpa/static/css/main.0852c708.css",
-    "main.js": "//gdong6.github.io/Grandpa/static/js/main.6c462590.js",
-    "static/media/grandpa.png": "//gdong6.github.io/Grandpa/static/media/grandpa.2cb7a068e330f755722f.png",
-    "index.html": "//gdong6.github.io/Grandpa/index.html",
-    "main.0852c708.css.map": "//gdong6.github.io/Grandpa/static/css/main.0852c708.css.map",
-    "main.6c462590.js.map": "//gdong6.github.io/Grandpa/static/js/main.6c462590.js.map"
+    "main.css": "/Grandpa/static/css/main.1aa35b87.css",
+    "main.js": "/Grandpa/static/js/main.aa48ce8b.js",
+    "static/media/grandpa.png": "/Grandpa/static/media/grandpa.2cb7a068e330f755722f.png",
+    "index.html": "/Grandpa/index.html",
+    "main.1aa35b87.css.map": "/Grandpa/static/css/main.1aa35b87.css.map",
+    "main.aa48ce8b.js.map": "/Grandpa/static/js/main.aa48ce8b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0852c708.css",
-    "static/js/main.6c462590.js"
+    "static/css/main.1aa35b87.css",
+    "static/js/main.aa48ce8b.js"
   ]
 }
