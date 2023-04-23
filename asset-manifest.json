@@ -1,14 +1,32 @@
 {
   "files": {
-    "main.css": "/Grandpa/static/css/main.1aa35b87.css",
-    "main.js": "/Grandpa/static/js/main.aa48ce8b.js",
+    "main.css": "/Grandpa/static/css/main.8e9ed6a5.css",
+    "main.js": "/Grandpa/static/js/main.ede8280e.js",
+    "static/media/3.jpeg": "/Grandpa/static/media/3.7ade4ccc39483b00eb07.jpeg",
+    "static/media/14.jpeg": "/Grandpa/static/media/14.ccb8dfe9c537a2028e4d.jpeg",
+    "static/media/2.JPG": "/Grandpa/static/media/2.2deaf80b9ff5219976a8.JPG",
+    "static/media/16.jpeg": "/Grandpa/static/media/16.6a5fcaf074582b677e9c.jpeg",
+    "static/media/9.jpeg": "/Grandpa/static/media/9.d8f340ce7c62b5c07ea7.jpeg",
+    "static/media/11.jpeg": "/Grandpa/static/media/11.8e0739ba3dfba863429f.jpeg",
+    "static/media/12.jpeg": "/Grandpa/static/media/12.4b450b3e233b6dc0f142.jpeg",
+    "static/media/15.jpeg": "/Grandpa/static/media/15.83a1d010d3cc4fa50a67.jpeg",
+    "static/media/7.jpeg": "/Grandpa/static/media/7.7e370bd42e29e70baf46.jpeg",
+    "static/media/13.jpeg": "/Grandpa/static/media/13.8e0647639ddff8797015.jpeg",
+    "static/media/1.jpeg": "/Grandpa/static/media/1.069302e97a9e3a2089aa.jpeg",
+    "static/media/17.jpeg": "/Grandpa/static/media/17.ab794e1ab48bdc4aa51b.jpeg",
+    "static/media/10.jpeg": "/Grandpa/static/media/10.8bd2744a08f032e68a85.jpeg",
     "static/media/grandpa.png": "/Grandpa/static/media/grandpa.2cb7a068e330f755722f.png",
+    "static/media/4.jpeg": "/Grandpa/static/media/4.bdf9ec33e1a8a235796d.jpeg",
+    "static/media/18.jpeg": "/Grandpa/static/media/18.f6da6873442cdb9c04c4.jpeg",
+    "static/media/8.jpeg": "/Grandpa/static/media/8.cd6ea74a4540a3ffc3c3.jpeg",
+    "static/media/5.jpeg": "/Grandpa/static/media/5.5d8522f4de6445ddea9d.jpeg",
+    "static/media/6.jpeg": "/Grandpa/static/media/6.7260e1f4149333f763df.jpeg",
     "index.html": "/Grandpa/index.html",
-    "main.1aa35b87.css.map": "/Grandpa/static/css/main.1aa35b87.css.map",
-    "main.aa48ce8b.js.map": "/Grandpa/static/js/main.aa48ce8b.js.map"
+    "main.8e9ed6a5.css.map": "/Grandpa/static/css/main.8e9ed6a5.css.map",
+    "main.ede8280e.js.map": "/Grandpa/static/js/main.ede8280e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1aa35b87.css",
-    "static/js/main.aa48ce8b.js"
+    "static/css/main.8e9ed6a5.css",
+    "static/js/main.ede8280e.js"
   ]
 }
