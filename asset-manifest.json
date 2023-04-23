@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Grandpa/static/css/main.9f222208.css",
-    "main.js": "/Grandpa/static/js/main.1da0f297.js",
+    "main.css": "/Grandpa/static/css/main.5f293e01.css",
+    "main.js": "/Grandpa/static/js/main.d8ef08ff.js",
     "static/media/3.jpeg": "/Grandpa/static/media/3.7ade4ccc39483b00eb07.jpeg",
     "static/media/14.jpeg": "/Grandpa/static/media/14.ccb8dfe9c537a2028e4d.jpeg",
     "static/media/2.JPG": "/Grandpa/static/media/2.2deaf80b9ff5219976a8.JPG",
@@ -22,11 +22,11 @@
     "static/media/5.jpeg": "/Grandpa/static/media/5.5d8522f4de6445ddea9d.jpeg",
     "static/media/6.jpeg": "/Grandpa/static/media/6.7260e1f4149333f763df.jpeg",
     "index.html": "/Grandpa/index.html",
-    "main.9f222208.css.map": "/Grandpa/static/css/main.9f222208.css.map",
-    "main.1da0f297.js.map": "/Grandpa/static/js/main.1da0f297.js.map"
+    "main.5f293e01.css.map": "/Grandpa/static/css/main.5f293e01.css.map",
+    "main.d8ef08ff.js.map": "/Grandpa/static/js/main.d8ef08ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f222208.css",
-    "static/js/main.1da0f297.js"
+    "static/css/main.5f293e01.css",
+    "static/js/main.d8ef08ff.js"
   ]
 }
