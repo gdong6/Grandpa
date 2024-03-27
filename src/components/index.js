@@ -1,15 +1,15 @@
 import Navbar from "./Navbar";
 import Hero from "./Hero";
-// import About from "./About";
+import About from "./About";
 // import Gallery from "./Gallery";
-// import Footer from "./Footer";
 // import Comment from "./Comment";
+import Footer from "./Footer";
 
 export {
     Navbar,
     Hero,
-    // About,
+    About,
     // Gallery,
     // Comment,
-    // Footer,
+    Footer,
 }

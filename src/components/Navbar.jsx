@@ -7,7 +7,7 @@ const Navbar = () => {
   const [active, setActive] = useState('');
 
   return (
-    <nav id="navbar" className=' w-full flex items-center py-5 fixed top-0 z-20 bg-black/40 backdrop-blur-md border-10-white'>
+    <nav id="navbar" className=' w-full flex items-center p-3 fixed z-20 bg-neutral-700/50 backdrop-blur-md border-b-[0.5px] border-slate-500'>
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
         <Link to="/" className='flex items-center gap-2' onClick={() => { 
             setActive(""); 
