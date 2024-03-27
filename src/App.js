@@ -9,7 +9,7 @@ const App = () => {
           <Navbar />
           <Hero />
         </div>
-        <div className=" bg-zinc-900">
+        <div className="bg-neutral-900 m-0">
           <About />
         </div>
         {/* <div className="bg-purple-100">
