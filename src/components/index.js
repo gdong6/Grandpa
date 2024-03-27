@@ -1,5 +1,5 @@
 import Navbar from "./Navbar";
-// import Hero from "./Hero";
+import Hero from "./Hero";
 // import About from "./About";
 // import Gallery from "./Gallery";
 // import Footer from "./Footer";
@@ -7,7 +7,7 @@ import Navbar from "./Navbar";
 
 export {
     Navbar,
-    // Hero,
+    Hero,
     // About,
     // Gallery,
     // Comment,
