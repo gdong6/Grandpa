@@ -7,7 +7,7 @@ import { grandpa } from '../assets'
 const Hero = () => {
   return (
     <div className='flex w-full h-screen  justify-center'>
-      <div className="flex sm:px-0 max-w-7xl flex-col lg:flex-row justify-end">
+      <div className="flex pt-12 sm:max-w-7xl flex-col lg:flex-row justify-end">
         <div className='flex-col m-auto '>
             <h1 className='text-white font-sans lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[50px] lg:leading-[98px] mt-2'>
               {detail.name}

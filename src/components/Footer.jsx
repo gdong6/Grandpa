@@ -12,7 +12,7 @@ function Footer() {
         </h1>
       </motion.div>
       <h2 className='text-white mt-40'>
-        2024年4月4日-龙
+        2024年4月4日-龙 Build with React.js, Tailwind CSS, framer motion
       </h2>
     </div>    
   )
